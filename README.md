@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **niloyman01@gmail.com**
 
-<h3 align="left">Available at:</h3>
+<h3 align="left">Available here:</h3>
 <p align="left">
 <a href="https://dev.to/arceen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arceen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/a-h-m-annur-6b45a21bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="a-h-m-annur-6b45a21bb" height="30" width="40" /></a>
