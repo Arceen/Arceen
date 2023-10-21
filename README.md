@@ -19,8 +19,7 @@
 </p>
 
 <div align="center">
-  <p>PROFILE VIEWS: </p>
-  <img src="https://profile-counter.glitch.me/neel-07/count.svg?"  />
+  ![](https://komarev.com/ghpvc/?username=Arceen&color=green)
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
