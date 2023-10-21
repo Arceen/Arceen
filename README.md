@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
- ![](https://komarev.com/ghpvc/?username=Arceen&label=PROFILE+VIEWS)
+ ![](https://komarev.com/ghpvc/?username=arceen&label=PROFILE+VIEWS)
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
