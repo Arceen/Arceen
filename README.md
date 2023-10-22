@@ -7,7 +7,7 @@
 
 - 💬 Talk to me about **React, Nextjs, Django, Automation, AI**
 
-- 📫 Reach me at **niloyman01@gmail.com**
+- 📫 Send me a mail **niloyman01@gmail.com**
 
 <h3 align="left">Available here:</h3>
 <p align="left">
