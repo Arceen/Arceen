@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **Frontend Engineering**
 
-- 💬 Talk to me about **Reactjs, Nextjs, Django, Automation, AI**
+- 💬 Talk to me about **Javascript, Reactjs, Nextjs, Django, Automation, AI**
 
 - 📫 Send me a mail **niloyman01@gmail.com**
 
