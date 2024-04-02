@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arceen" alt="arceen" /></a> </p>
 
-- 🌱 Currently learning **Frontend Engineering**
+- 🌱 Currently learning **Systems Engineering**
 
 - 💬 Talk to me about **Javascript, Reactjs, Nextjs, Django, Automation, AI**
 
