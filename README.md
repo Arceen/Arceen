@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **Systems Engineering**
 
-- 💬 Talk to me about **Full Stack Dev, Product Development, Graphics Programming, Database Engineering, DevOps**
+- 💬 Talk to me about **Software Engineering, Product Development, Graphics Programming, Database Engineering, DevOps**
 
 - 📫 Send a mail @ **niloyman01@gmail.com**
 
@@ -25,7 +25,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arceen&show_icons=true&locale=en&theme=radical" alt="arceen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arceen&show_icons=true&locale=en&theme=radical&exclude_repo=ML-Works,&hide=t&langs_count=20&layout=compact" alt="arceen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arceen&show_icons=true&locale=en&theme=radical" alt="arceen" /></p>
 
