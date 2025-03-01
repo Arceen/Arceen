@@ -28,4 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arceen&show_icons=true&locale=en&theme=radical&exclude_repo=ML-Works,&hide=t&langs_count=20&layout=compact&size_weight=0.3&count_weight=0.7" alt="arceen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arceen&show_icons=true&locale=en&theme=radical" alt="arceen" /></p>
-
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=Arceen&theme=dark" alt="arceen" /></p>
