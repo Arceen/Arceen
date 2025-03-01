@@ -24,8 +24,10 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
 
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arceen&show_icons=true&locale=en&theme=radical" alt="arceen" />
+<img align="center" src="https://streak-stats.demolab.com/?user=Arceen&theme=dark" alt="arceen" />
+</p>
+<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arceen&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=ML-Works,&hide=t&langs_count=20&size_weight=0.3&count_weight=0.7" alt="arceen" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arceen&show_icons=true&locale=en&theme=radical&exclude_repo=ML-Works,&hide=t&langs_count=20&layout=compact&size_weight=0.3&count_weight=0.7" alt="arceen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arceen&show_icons=true&locale=en&theme=radical" alt="arceen" /></p>
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=Arceen&theme=dark" alt="arceen" /></p>
