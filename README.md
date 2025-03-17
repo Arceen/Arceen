@@ -28,7 +28,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arceen&show_icons=true&locale=en&theme=radical" alt="arceen" />
 </p>
 <p>
-<img align="center" src="https://streak-stats.demolab.com/?user=Arceen&theme=dark" alt="arceen" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Arceen" />
 </p>
 
 
